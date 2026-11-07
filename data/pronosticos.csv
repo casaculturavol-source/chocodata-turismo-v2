@@ -1,0 +1,127 @@
+﻿municipio,anio,mes_num,estimacion_random_forest,demanda_random_forest,estimacion_estacional,demanda_estacional,metodo_estacional,meses_historicos,riesgo_cobertura,diferencia_relativa_pct,coinciden_categorias
+ACANDI,2026,7,381,Media,350,Media,Basado en observaciones previas,77,Revisión necesaria,8.857142857142856,True
+ACANDI,2026,8,357,Media,367,Media,Basado en observaciones previas,77,Revisión necesaria,2.7247956403269753,True
+ACANDI,2026,9,316,Baja,293,Baja,Basado en observaciones previas,77,Revisión necesaria,7.849829351535837,True
+ACANDI,2026,10,346,Media,384,Media,Basado en observaciones previas,77,Revisión necesaria,9.895833333333332,True
+ACANDI,2026,11,501,Alta,478,Alta,Basado en observaciones previas,77,Revisión necesaria,4.811715481171548,True
+ACANDI,2026,12,537,Alta,581,Alta,Basado en observaciones previas,77,Revisión necesaria,7.573149741824441,True
+ACANDI,2027,1,504,Alta,526,Alta,Basado en observaciones previas,77,Revisión necesaria,4.182509505703422,True
+ACANDI,2027,2,306,Baja,264,Baja,Basado en observaciones previas,77,Revisión necesaria,15.909090909090908,True
+ACANDI,2027,3,332,Media,385,Media,Basado en observaciones previas,77,Revisión necesaria,13.766233766233766,True
+ACANDI,2027,4,269,Baja,261,Baja,Basado en observaciones previas,77,Revisión necesaria,3.065134099616858,True
+ACANDI,2027,5,287,Baja,322,Baja,Basado en observaciones previas,77,Revisión necesaria,10.869565217391305,True
+ACANDI,2027,6,343,Media,406,Media,Basado en observaciones previas,77,Revisión necesaria,15.517241379310345,True
+ACANDI,2027,7,356,Media,347,Media,Recursivo: usa pronósticos anteriores,77,Revisión necesaria,2.5936599423631126,True
+ACANDI,2027,8,359,Media,366,Media,Recursivo: usa pronósticos anteriores,77,Revisión necesaria,1.912568306010929,True
+ACANDI,2027,9,316,Baja,291,Baja,Recursivo: usa pronósticos anteriores,77,Revisión necesaria,8.59106529209622,True
+ACANDI,2027,10,346,Media,384,Media,Recursivo: usa pronósticos anteriores,77,Revisión necesaria,9.895833333333332,True
+ACANDI,2027,11,501,Alta,477,Alta,Recursivo: usa pronósticos anteriores,77,Revisión necesaria,5.031446540880504,True
+ACANDI,2027,12,536,Alta,580,Alta,Recursivo: usa pronósticos anteriores,77,Revisión necesaria,7.586206896551724,True
+BAHIA SOLANO,2026,7,5383,Alta,5342,Alta,Basado en observaciones previas,78,Revisión necesaria,0.7675028079371022,True
+BAHIA SOLANO,2026,8,6571,Alta,7617,Alta,Basado en observaciones previas,78,Revisión necesaria,13.732440593409478,True
+BAHIA SOLANO,2026,9,5210,Alta,5204,Alta,Basado en observaciones previas,78,Revisión necesaria,0.11529592621060722,True
+BAHIA SOLANO,2026,10,4086,Alta,4448,Alta,Basado en observaciones previas,78,Revisión necesaria,8.138489208633093,True
+BAHIA SOLANO,2026,11,3138,Media,2899,Baja,Basado en observaciones previas,78,Revisión necesaria,8.244222145567438,False
+BAHIA SOLANO,2026,12,3911,Alta,4058,Alta,Basado en observaciones previas,78,Revisión necesaria,3.62247412518482,True
+BAHIA SOLANO,2027,1,3114,Media,3186,Media,Basado en observaciones previas,78,Revisión necesaria,2.2598870056497176,True
+BAHIA SOLANO,2027,2,2263,Baja,2504,Baja,Basado en observaciones previas,78,Revisión necesaria,9.624600638977636,True
+BAHIA SOLANO,2027,3,2800,Baja,2844,Baja,Basado en observaciones previas,78,Revisión necesaria,1.5471167369901548,True
+BAHIA SOLANO,2027,4,2427,Baja,3004,Media,Basado en observaciones previas,78,Revisión necesaria,19.207723035952064,False
+BAHIA SOLANO,2027,5,3187,Media,3462,Media,Basado en observaciones previas,78,Revisión necesaria,7.943385326400924,True
+BAHIA SOLANO,2027,6,3369,Media,3473,Media,Basado en observaciones previas,78,Revisión necesaria,2.9945292254534985,True
+BAHIA SOLANO,2027,7,5332,Alta,5352,Alta,Recursivo: usa pronósticos anteriores,78,Revisión necesaria,0.37369207772795215,True
+BAHIA SOLANO,2027,8,6599,Alta,7618,Alta,Recursivo: usa pronósticos anteriores,78,Revisión necesaria,13.37621422945655,True
+BAHIA SOLANO,2027,9,5210,Alta,5206,Alta,Recursivo: usa pronósticos anteriores,78,Revisión necesaria,0.0768344218209758,True
+BAHIA SOLANO,2027,10,4086,Alta,4448,Alta,Recursivo: usa pronósticos anteriores,78,Revisión necesaria,8.138489208633093,True
+BAHIA SOLANO,2027,11,3138,Media,2898,Baja,Recursivo: usa pronósticos anteriores,78,Revisión necesaria,8.281573498964804,False
+BAHIA SOLANO,2027,12,3934,Alta,4057,Alta,Recursivo: usa pronósticos anteriores,78,Revisión necesaria,3.03179689425684,True
+BAJO BAUDO,2026,7,12,Baja,8,Baja,Basado en observaciones previas,77,Revisión necesaria,50.0,True
+BAJO BAUDO,2026,8,17,Baja,19,Baja,Basado en observaciones previas,77,Revisión necesaria,10.526315789473683,True
+BAJO BAUDO,2026,9,25,Baja,36,Media,Basado en observaciones previas,77,Revisión necesaria,30.555555555555557,False
+BAJO BAUDO,2026,10,23,Baja,37,Media,Basado en observaciones previas,77,Revisión necesaria,37.83783783783784,False
+BAJO BAUDO,2026,11,33,Media,18,Baja,Basado en observaciones previas,77,Revisión necesaria,83.33333333333334,False
+BAJO BAUDO,2026,12,42,Media,91,Alta,Basado en observaciones previas,77,Revisión necesaria,53.84615384615385,False
+BAJO BAUDO,2027,1,25,Baja,44,Media,Basado en observaciones previas,77,Revisión necesaria,43.18181818181818,False
+BAJO BAUDO,2027,2,27,Baja,29,Baja,Basado en observaciones previas,77,Revisión necesaria,6.896551724137931,True
+BAJO BAUDO,2027,3,18,Baja,9,Baja,Segundo año previo (primero ausente),77,Revisión necesaria,100.0,True
+BAJO BAUDO,2027,4,20,Baja,35,Media,Basado en observaciones previas,77,Revisión necesaria,42.857142857142854,False
+BAJO BAUDO,2027,5,11,Baja,5,Baja,Basado en observaciones previas,77,Revisión necesaria,120.0,True
+BAJO BAUDO,2027,6,16,Baja,4,Baja,Basado en observaciones previas,77,Revisión necesaria,300.0,True
+BAJO BAUDO,2027,7,10,Baja,7,Baja,Recursivo: usa pronósticos anteriores,77,Revisión necesaria,42.857142857142854,True
+BAJO BAUDO,2027,8,25,Baja,19,Baja,Recursivo: usa pronósticos anteriores,77,Revisión necesaria,31.57894736842105,True
+BAJO BAUDO,2027,9,25,Baja,36,Media,Recursivo: usa pronósticos anteriores,77,Revisión necesaria,30.555555555555557,False
+BAJO BAUDO,2027,10,23,Baja,36,Media,Recursivo: usa pronósticos anteriores,77,Revisión necesaria,36.11111111111111,False
+BAJO BAUDO,2027,11,33,Media,18,Baja,Recursivo: usa pronósticos anteriores,77,Revisión necesaria,83.33333333333334,False
+BAJO BAUDO,2027,12,39,Media,91,Alta,Recursivo: usa pronósticos anteriores,77,Revisión necesaria,57.14285714285714,False
+CONDOTO,2026,7,119,Baja,288,Alta,Basado en observaciones previas,76,Revisión necesaria,58.68055555555556,False
+CONDOTO,2026,8,115,Baja,235,Media,Basado en observaciones previas,76,Revisión necesaria,51.06382978723404,False
+CONDOTO,2026,9,223,Media,269,Alta,Basado en observaciones previas,76,Revisión necesaria,17.100371747211895,False
+CONDOTO,2026,10,127,Baja,264,Alta,Basado en observaciones previas,76,Revisión necesaria,51.89393939393939,False
+CONDOTO,2026,11,228,Media,244,Media,Basado en observaciones previas,76,Revisión necesaria,6.557377049180328,True
+CONDOTO,2026,12,240,Media,360,Alta,Basado en observaciones previas,76,Revisión necesaria,33.33333333333333,False
+CONDOTO,2027,1,125,Baja,252,Alta,Basado en observaciones previas,76,Revisión necesaria,50.39682539682539,False
+CONDOTO,2027,2,170,Baja,216,Media,Basado en observaciones previas,76,Revisión necesaria,21.296296296296298,False
+CONDOTO,2027,3,97,Baja,239,Media,Basado en observaciones previas,76,Revisión necesaria,59.41422594142259,False
+CONDOTO,2027,4,127,Baja,223,Media,Basado en observaciones previas,76,Revisión necesaria,43.04932735426009,False
+CONDOTO,2027,5,83,Baja,271,Alta,Basado en observaciones previas,76,Revisión necesaria,69.37269372693727,False
+CONDOTO,2027,6,191,Baja,275,Alta,Basado en observaciones previas,76,Revisión necesaria,30.545454545454547,False
+CONDOTO,2027,7,92,Baja,289,Alta,Recursivo: usa pronósticos anteriores,76,Revisión necesaria,68.16608996539793,False
+CONDOTO,2027,8,194,Baja,236,Media,Recursivo: usa pronósticos anteriores,76,Revisión necesaria,17.796610169491526,False
+CONDOTO,2027,9,223,Media,270,Alta,Recursivo: usa pronósticos anteriores,76,Revisión necesaria,17.40740740740741,False
+CONDOTO,2027,10,127,Baja,264,Alta,Recursivo: usa pronósticos anteriores,76,Revisión necesaria,51.89393939393939,False
+CONDOTO,2027,11,228,Media,244,Media,Recursivo: usa pronósticos anteriores,76,Revisión necesaria,6.557377049180328,True
+CONDOTO,2027,12,242,Media,360,Alta,Recursivo: usa pronósticos anteriores,76,Revisión necesaria,32.77777777777778,False
+JURADO,2026,7,15,Baja,32,Media,Basado en observaciones previas,30,Alto: menos de 36 meses,53.125,False
+JURADO,2026,8,19,Baja,69,Media,Basado en observaciones previas,30,Alto: menos de 36 meses,72.46376811594203,False
+JURADO,2026,9,22,Baja,26,Media,Basado en observaciones previas,30,Alto: menos de 36 meses,15.384615384615385,False
+JURADO,2026,10,20,Baja,17,Baja,Basado en observaciones previas,30,Alto: menos de 36 meses,17.647058823529413,True
+JURADO,2026,11,26,Media,32,Media,Basado en observaciones previas,30,Alto: menos de 36 meses,18.75,True
+JURADO,2026,12,30,Media,35,Media,Basado en observaciones previas,30,Alto: menos de 36 meses,14.285714285714285,True
+JURADO,2027,1,20,Baja,22,Baja,Basado en observaciones previas,30,Alto: menos de 36 meses,9.090909090909092,True
+JURADO,2027,2,18,Baja,7,Baja,Año anterior (segundo ausente),30,Alto: menos de 36 meses,157.14285714285714,True
+JURADO,2027,3,18,Baja,18,Baja,Año anterior (segundo ausente),30,Alto: menos de 36 meses,0.0,True
+JURADO,2027,4,20,Baja,43,Media,Basado en observaciones previas,30,Alto: menos de 36 meses,53.48837209302325,False
+JURADO,2027,5,14,Baja,22,Baja,Basado en observaciones previas,30,Alto: menos de 36 meses,36.36363636363637,True
+JURADO,2027,6,19,Baja,5,Baja,Segundo año previo (primero ausente),30,Alto: menos de 36 meses,280.0,True
+JURADO,2027,7,13,Baja,31,Media,Recursivo: usa pronósticos anteriores,30,Alto: menos de 36 meses,58.06451612903226,False
+JURADO,2027,8,27,Media,67,Media,Recursivo: usa pronósticos anteriores,30,Alto: menos de 36 meses,59.70149253731343,True
+JURADO,2027,9,22,Baja,25,Media,Recursivo: usa pronósticos anteriores,30,Alto: menos de 36 meses,12.0,False
+JURADO,2027,10,20,Baja,16,Baja,Recursivo: usa pronósticos anteriores,30,Alto: menos de 36 meses,25.0,True
+JURADO,2027,11,26,Media,31,Media,Recursivo: usa pronósticos anteriores,30,Alto: menos de 36 meses,16.129032258064516,True
+JURADO,2027,12,28,Media,34,Media,Recursivo: usa pronósticos anteriores,30,Alto: menos de 36 meses,17.647058823529413,True
+NUQUI,2026,7,3861,Alta,4282,Alta,Basado en observaciones previas,78,Revisión necesaria,9.831854273703877,True
+NUQUI,2026,8,4691,Alta,7292,Alta,Basado en observaciones previas,78,Revisión necesaria,35.66922654964345,True
+NUQUI,2026,9,4884,Alta,4733,Alta,Basado en observaciones previas,78,Revisión necesaria,3.1903655186985,True
+NUQUI,2026,10,3739,Alta,3718,Alta,Basado en observaciones previas,78,Revisión necesaria,0.5648197955890264,True
+NUQUI,2026,11,2720,Media,2130,Media,Basado en observaciones previas,78,Revisión necesaria,27.699530516431924,True
+NUQUI,2026,12,3014,Media,3935,Alta,Basado en observaciones previas,78,Revisión necesaria,23.40533672172808,False
+NUQUI,2027,1,2219,Media,2473,Media,Basado en observaciones previas,78,Revisión necesaria,10.270926000808736,True
+NUQUI,2027,2,1777,Baja,1698,Baja,Basado en observaciones previas,78,Revisión necesaria,4.652532391048291,True
+NUQUI,2027,3,1965,Baja,2054,Media,Basado en observaciones previas,78,Revisión necesaria,4.33300876338851,False
+NUQUI,2027,4,1770,Baja,1854,Baja,Basado en observaciones previas,78,Revisión necesaria,4.53074433656958,True
+NUQUI,2027,5,1962,Baja,1946,Baja,Basado en observaciones previas,78,Revisión necesaria,0.8221993833504625,True
+NUQUI,2027,6,2748,Media,2672,Media,Basado en observaciones previas,78,Revisión necesaria,2.844311377245509,True
+NUQUI,2027,7,3861,Alta,4286,Alta,Recursivo: usa pronósticos anteriores,78,Revisión necesaria,9.916005599626692,True
+NUQUI,2027,8,5148,Alta,7299,Alta,Recursivo: usa pronósticos anteriores,78,Revisión necesaria,29.469790382244142,True
+NUQUI,2027,9,4884,Alta,4729,Alta,Recursivo: usa pronósticos anteriores,78,Revisión necesaria,3.277648551490801,True
+NUQUI,2027,10,3739,Alta,3717,Alta,Recursivo: usa pronósticos anteriores,78,Revisión necesaria,0.5918751681463547,True
+NUQUI,2027,11,2720,Media,2129,Media,Recursivo: usa pronósticos anteriores,78,Revisión necesaria,27.75951150775012,True
+NUQUI,2027,12,2994,Media,3933,Alta,Recursivo: usa pronósticos anteriores,78,Revisión necesaria,23.874904652936692,False
+QUIBDO,2026,7,15160,Alta,14455,Media,Basado en observaciones previas,78,Revisión necesaria,4.87720511933587,False
+QUIBDO,2026,8,15156,Alta,14404,Media,Basado en observaciones previas,78,Revisión necesaria,5.220772007775618,False
+QUIBDO,2026,9,15446,Alta,16551,Alta,Basado en observaciones previas,78,Revisión necesaria,6.676333756268503,True
+QUIBDO,2026,10,15605,Alta,16582,Alta,Basado en observaciones previas,78,Revisión necesaria,5.891931009528404,True
+QUIBDO,2026,11,15464,Alta,15346,Alta,Basado en observaciones previas,78,Revisión necesaria,0.7689300143359833,True
+QUIBDO,2026,12,17568,Alta,18450,Alta,Basado en observaciones previas,78,Revisión necesaria,4.780487804878049,True
+QUIBDO,2027,1,13780,Media,13636,Media,Basado en observaciones previas,78,Revisión necesaria,1.0560281607509534,True
+QUIBDO,2027,2,11553,Baja,11865,Baja,Basado en observaciones previas,78,Revisión necesaria,2.629582806573957,True
+QUIBDO,2027,3,13634,Media,13980,Media,Basado en observaciones previas,78,Revisión necesaria,2.474964234620887,True
+QUIBDO,2027,4,13040,Baja,14305,Media,Basado en observaciones previas,78,Revisión necesaria,8.843061866480252,False
+QUIBDO,2027,5,13752,Media,14530,Media,Basado en observaciones previas,78,Revisión necesaria,5.354439091534756,True
+QUIBDO,2027,6,15458,Alta,15854,Alta,Basado en observaciones previas,78,Revisión necesaria,2.4977923552415793,True
+QUIBDO,2027,7,15160,Alta,14465,Media,Recursivo: usa pronósticos anteriores,78,Revisión necesaria,4.804701002419633,False
+QUIBDO,2027,8,15073,Alta,14418,Media,Recursivo: usa pronósticos anteriores,78,Revisión necesaria,4.542932445554168,False
+QUIBDO,2027,9,15446,Alta,16584,Alta,Recursivo: usa pronósticos anteriores,78,Revisión necesaria,6.862035697057404,True
+QUIBDO,2027,10,15605,Alta,16607,Alta,Recursivo: usa pronósticos anteriores,78,Revisión necesaria,6.033600289034744,True
+QUIBDO,2027,11,15464,Alta,15357,Alta,Recursivo: usa pronósticos anteriores,78,Revisión necesaria,0.6967506674480692,True
+QUIBDO,2027,12,17586,Alta,18466,Alta,Recursivo: usa pronósticos anteriores,78,Revisión necesaria,4.765515000541535,True

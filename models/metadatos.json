@@ -1,0 +1,41 @@
+{
+  "modelo": "RandomForestRegressor",
+  "target": "llegadas de pasajeros aéreos mensuales (NO turistas identificados)",
+  "alcance": "7 municipios representados en el registro de Aerocivil",
+  "fuente": "datos/aerocivil_choco_raw.csv; agregación municipal con reglas de correspondencia documentadas",
+  "entrenado_hasta": "2026-06",
+  "n_registros_entrenamiento": 494,
+  "algoritmo_salida": "np.expm1(pipeline.predict(x)) con truncamiento a cero",
+  "feature_columns": [
+    "municipio",
+    "mes_num",
+    "mes_sin",
+    "mes_cos",
+    "anio",
+    "dias_fiesta",
+    "dias_ballenas",
+    "dias_festivo_nac",
+    "puentes",
+    "semana_santa_dias"
+  ],
+  "feature_excluidas_por_fuga": [
+    "llegadas",
+    "salidas",
+    "extranjeros"
+  ],
+  "hiperparametros": {
+    "n_estimators": 240,
+    "min_samples_leaf": 3,
+    "max_features": 1.0
+  },
+  "tuning": "búsqueda manual acotada evaluada en 2024 (no se usaron 2025/2026 para elegir parámetros)",
+  "version_python": "3.13.5",
+  "version_sklearn": "1.8.0",
+  "validaciones": [
+    "2024",
+    "2025",
+    "2026 enero-junio"
+  ],
+  "nota": "No estima todos los turistas del Chocó ni discrimina la motivación del viaje. Algunas fechas de festividades se representan mediante aproximaciones del calendario incorporado.",
+  "archivo": "resultados_predictivo/modelo_llegadas_rf_festividades.joblib"
+}
